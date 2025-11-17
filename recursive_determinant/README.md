@@ -29,4 +29,4 @@ This function recursively calculates the determinant by expanding across the fir
         Alternating Sign: The cofactor term is calculated with an alternating sign, (−1)col.
 
         Accumulation: The total determinant (det) is the sum of:
-        det+=(−1)col⋅matriz[0][col]⋅calcular_determinante(submatriz,n−1)
+<img width="798" height="63" alt="image" src="https://github.com/user-attachments/assets/bef96eef-f4d5-4976-af0a-414c02a3ee04" />
