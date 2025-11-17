@@ -1,0 +1,6 @@
+[package]
+name = "Res-Ecuaciones-Gauss-Jordan"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
